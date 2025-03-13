@@ -1,4 +1,4 @@
-# Ứng dụng Chat dựa trên Socket
+# Chat dựa trên Socket
 
 Đây là một ứng dụng chat đơn giản dựa trên socket, cho phép nhiều client kết nối đến một server và trao đổi tin nhắn trong thời gian thực. Ứng dụng bao gồm ba thành phần chính: server, client và file cấu hình.
 
