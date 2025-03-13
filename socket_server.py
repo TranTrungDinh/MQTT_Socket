@@ -1,8 +1,6 @@
 import socket
 import threading
-
-HOST = '127.0.0.1'  # Địa chỉ IP của máy chủ
-PORT = 65432        # Cổng mà server sẽ lắng nghe
+from config import HOST, PORT
 
 clients = []  # Danh sách để lưu trữ các kết nối client
 
